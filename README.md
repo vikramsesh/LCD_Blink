@@ -1,9 +1,9 @@
 # LCD_Blink
-Using the TFT display in the PIC24EP microcontroller to blink it at 2Hz frequency
+Using the TFT display in the PIC24EP microcontroller to blink it at 2Hz frequency. The PIC24EP512GU810 board is used for observing the process.
 
 The objective of this project is: 
 
-To understand the LCD module available in the PIC24EP512GU810 board and to make the LCD display backlight blink at a frequency of 2Hz.
+To understand the LCD module available in the PIC24EP512GU810 board and to make the LCD display backlight blink at a frequency of 2Hz. The internal clock is used which has a frequency of 40Mhz.
 
 Configuring the internal and external oscillators was explored in this assignment to change the frequency of the LCD display backlight blinking.
 
